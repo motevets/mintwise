@@ -1,0 +1,17 @@
+{
+  "mintLabelToSplitwiseId": {
+    "Restaurants": 13,
+    "Fast Food": 13,
+    "Home Insurance": 10,
+    "Furnishings": 16,
+    "Shopping": 14,
+    "Groceries": 12
+  },
+  "splitwiseIdToLabel": {
+    "10": "Life > Insurance",
+    "12": "Food and drink > Groceries",
+    "13": "Food and drink > Dining out",
+    "14": "Home > Household supplies",
+    "16": "Home > Furniture"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+in.csv
+config*.json
+!config.example.json
+*.log

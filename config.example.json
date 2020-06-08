@@ -1,0 +1,15 @@
+{
+  "splitwiseConsumerKey": "...",
+  "splitwiseConsumerSecret": "...",
+  "splitwiseGroupId": "...",
+  "splitwisePayerId": 0000000,
+  "splitwiseBorrowerId": 0000000,
+  "mintUsername": "...",
+  "mintPassword": "...",
+  "startDate": "6/1/2018",
+  "endDate": "6/30/2018",
+  "canadianAccounts": [
+    "TD CASH BACK VISA INFINITE* CARD",
+    "TD ALL-INCLUSIVE BANKING PLAN"
+  ]
+}
