@@ -2,6 +2,8 @@
 
 Imports a Mint transactions into a Splitwise group and splits the expenses (currently with only one other person.)
 
+[![mintwise logo](https://motevets.com/images/mintwise_logo.svg)](https://motevets.com/projects/2020/06/08/mintwise.html)
+
 ## Usage
 
 Mintwise can copy Mint transactions into Splitwise in one of two ways:
