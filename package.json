@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Tom Dunlap <apocryphalauthor@gmail.com",
   "license": "ALL RIGHTS RESERVED",
+  "scripts": {
+    "flow": "./node_modules/.bin/flow"
+  },
   "dependencies": {
     "cli-table": "^0.3.1",
     "colors": "^1.3.1",
