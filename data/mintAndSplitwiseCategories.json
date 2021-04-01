@@ -5,13 +5,22 @@
     "Home Insurance": 10,
     "Furnishings": 16,
     "Shopping": 14,
-    "Groceries": 12
+    "Groceries": 12,
+    "Food & Dining": 13,
+    "Internet": 8,
+    "House Cleaning": 30,
+    "Pet Food & Supplies": 29,
+    "Movies & DVDs": 21
   },
   "splitwiseIdToLabel": {
+    "8": "Utilities > TV/Phone/Internet",
     "10": "Life > Insurance",
     "12": "Food and drink > Groceries",
     "13": "Food and drink > Dining out",
     "14": "Home > Household supplies",
-    "16": "Home > Furniture"
+    "16": "Home > Furniture",
+    "21": "Entertainment > Movies",
+    "29": "Home > Pets",
+    "30": "Home > Services"
   }
 }
